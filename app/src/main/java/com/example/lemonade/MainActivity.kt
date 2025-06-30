@@ -118,7 +118,8 @@ fun LemonApp() {
                 }
             },
                 shape = RoundedCornerShape(16.dp),
-                colors = ButtonDefaults.buttonColors(containerColor = Color(red = 105, green = 205, blue = 130))
+                colors = ButtonDefaults
+                    .buttonColors(containerColor = Color(red = 105, green = 205, blue = 130))
                 ) {
                 Image(
                     painter = painterResource(id = imageResource),
