@@ -1,2 +1,0 @@
-# Lemonade
-Click behavior practice
